@@ -18,3 +18,5 @@ Under Administration->Media Types create a new webhook media type.
 
 ### Script
 Copy the contents of msteams.js and paste into the script editor.
+
+If you don't like the existing colors I recomend this site. https://www.spycolor.com/
