@@ -11,7 +11,7 @@ Under Administration->Media Types create a new webhook media type.
 ### Parameters
 - title -> {ALERT.SUBJECT}
 - text -> {ALERT.MESSAGE}
-- WebHookURL -> Your webhook url for the teams channel
+- WebHookURL -> Your webhook url for the teams (or other service) channel
 - SeverityNumber -> {TRIGGER.NSEVERITY}
 - SeverityName -> {TRIGGER.SEVERITY}
 - Status -> {TRIGGER.STATUS}
