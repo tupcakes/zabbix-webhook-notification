@@ -1,3 +1,5 @@
+#### This repo has been archived.
+
 # zabbix-webhook-notification
 Uses the webhook feature in Zabbix 4.4 to send alerts to MS Teams.
 
